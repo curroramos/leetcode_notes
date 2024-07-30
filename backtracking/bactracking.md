@@ -257,4 +257,3 @@ print(combination_sum(candidates, target))  # Output: [[2, 2, 3], [7]]
 2. **Memoization:** Store results of subproblems to avoid redundant calculations.
 3. **Ordering:** Consider the order in which you explore candidates to improve efficiency.
 
-These notes cover the key concepts, examples, advantages, and optimizations of backtracking. Let me know if you need more details or have any specific questions!
