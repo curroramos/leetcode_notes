@@ -208,3 +208,82 @@ Here's a comprehensive list of tools you'll need to become a proficient data sci
 
 - **Google Drive/Dropbox:** Cloud storage.
 - **Notion/Evernote:** Note-taking and organization.
+
+
+• Array Linked List
+• Tree (Tree, Binary Tree, Binary Search Tree, Red-Black Tree, etc.)
+• Heap Hash Table Stack Queue
+• Trie
+• Graph (both directed and undirected)
+
+
+Sebas:
+Topics:
+
+Priority 1:
+
+- Arrays
+- Trees
+- Linked Lists
+- Hash Maps
+
+Priority 2:
+
+- Doubly Linked Lists
+- Graphs
+- Heap 
+- Tries
+
+
+
+complexity
+data structure why in a certain problem?
+
+chatgpt oop amazon de 1h
+mencionar al usuario mucho: ej me parece q para el usuario es mas facil
+
+pass
+
+40% leetcode 
+60% design
+
+Top de tops:
+LP1: Customer Obsession
+LP2: Ownership
+LP 14: Deliver Results 
+
+Top:
+LP3: Invent and Simplify
+LP5: Learn and be curious
+LP 9: Bias for action
+LP 12: Dive Deep
+
+
+mucho data, usar numeros
+
+
+ex:
+Situation:
+- In my role at Prima, we were facing a challenge where the sales team was spending an excessive amount of time on phone calls, which required both parties to be available simultaneously. The goal was to reduce this time but initially, we had no clear data on the best alternative communication method to achieve this.
+
+Task: 
+- My task was to find a way to reduce the time the sales team spent on phone calls while maintaining or improving customer engagement and satisfaction.
+
+Action:
+- The step I followed was to research various communication methods to understand what our clients were already using.
+- Conducted a survey to gather data on customers’ communication preferences, focusing on asynchronous methods that wouldn’t require simultaneous availability.
+- Identified that WhatsApp was the most popular messaging app among our user base.
+- Coordinated and oversaw the integration of the WhatsApp for Business API into Prima’s platform.
+
+Result:
+- The implementation of the WhatsApp API led to a significant reduction in the time the sales team spent on phone calls, from 5 hours to just 1 hour per day, resulting in a 80% reduction.
+- This change not only saved time but also increased customer engagement, as evidenced by higher response rates and positive customer feedback.
+
+
+no repetir historias porq luego se juntan posiblemente
+
+proyecto: features
+
+https://leetcode.com/problem-list/mq3y4p3j/
+
+hints in python
