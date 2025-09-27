@@ -1,6 +1,6 @@
 ### Sliding Window Algorithm Overview
 
-The sliding window algorithm is a technique used to solve problems involving arrays or lists where you need to find a subset of the elements that satisfies certain conditions. This technique is particularly useful for problems involving subarrays or substrings and helps reduce the time complexity from O(n²) to O(n) in many cases.
+sliding window is basically when you have a "window" that moves through an array. super useful for substring/subarray problems and makes things way faster (O(n) instead of O(n²)).
 
 ### Key Concepts
 

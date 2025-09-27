@@ -1,6 +1,6 @@
 ### Fast and Slow Pointers Technique in Linked Lists
 
-The fast and slow pointers technique, also known as the "tortoise and hare" algorithm, is a common approach used to solve various problems involving linked lists. This technique employs two pointers that move through the list at different speeds to detect cycles, find the middle node, and more.
+fast and slow pointers (tortoise and hare) - one pointer moves 1 step, other moves 2 steps. really good for finding cycles in linked lists and other stuff.
 
 ### Key Concepts
 
@@ -198,4 +198,4 @@ print(is_palindrome(node1))  # Output: True
 - **Limited Scope:** Specifically useful for linked lists and related problems.
 - **Edge Cases:** Requires careful handling of edge cases, such as empty lists or single-node lists.
 
-These notes cover the key concepts, example problems, and applications of the fast and slow pointers technique in linked lists. Let me know if you need more details or have any specific questions!
+still working on more problems with this technique but these are the basics i've figured out so far.

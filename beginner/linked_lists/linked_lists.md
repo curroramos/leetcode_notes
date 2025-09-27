@@ -114,4 +114,4 @@ class LinkedList:
         print()
 ```
 
-These notes should help you review and understand the key concepts from the "Linked List" video in the Neetcode course. Let me know if you need more details or have any questions!
+my notes from the neetcode linked list video. linked lists were confusing at first but starting to make sense now.

@@ -172,4 +172,4 @@ print(three_sum(nums))  # Output: [[-1, -1, 2], [-1, 0, 1]]
 - **Limited Scope:** Not all problems can be solved using the two pointers technique.
 - **Edge Cases:** Careful handling of edge cases is necessary, such as empty arrays or special input conditions.
 
-These notes cover the key concepts, example problems, and applications of the two pointers technique. Let me know if you need more details or have any specific questions!
+these are my notes from studying two pointers problems. still working through more examples but this covers the main stuff.
