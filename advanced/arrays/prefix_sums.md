@@ -126,5 +126,3 @@ print(count_subarrays_with_sum(arr, target))  # Output: 2
 **Disadvantages:**
 - **Space Complexity:** Requires additional space for the prefix sum array.
 - **Limited Scope:** Specifically useful for sum-based queries and problems.
-
-These notes cover the key concepts, example problems, and applications of prefix sums. Let me know if you need more details or have any specific questions!
