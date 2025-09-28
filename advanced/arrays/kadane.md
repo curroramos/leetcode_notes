@@ -113,5 +113,3 @@ print(nums[start:end + 1])  # Output: [4, -1, 2, 1]
 **Disadvantages:**
 - **Limited Scope:** Specifically designed for one-dimensional arrays. For multi-dimensional arrays, modifications are needed.
 - **Not Generalized:** The algorithm works only for problems related to maximum subarray sum.
-
-These notes cover the key concepts, implementation, variations, and applications of Kadane's Algorithm. Let me know if you need more details or have any specific questions!
